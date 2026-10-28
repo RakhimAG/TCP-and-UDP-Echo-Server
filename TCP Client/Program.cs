@@ -2,7 +2,6 @@
 using System.Net.Sockets;
 using System.Text;
 
-Console.ReadLine();
 
 var client = new Socket
 (
